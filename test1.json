@@ -15,7 +15,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -80,7 +80,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -145,7 +145,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -220,7 +220,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -300,7 +300,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -345,7 +345,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -530,7 +530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -575,7 +575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -750,7 +750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -840,7 +840,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -925,7 +925,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -985,7 +985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1045,7 +1045,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1110,7 +1110,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1180,7 +1180,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1215,7 +1215,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1250,7 +1250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1285,7 +1285,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1320,7 +1320,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1355,7 +1355,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1390,7 +1390,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1425,7 +1425,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1460,7 +1460,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1495,7 +1495,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1530,7 +1530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1565,7 +1565,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1600,7 +1600,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1665,7 +1665,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -1730,7 +1730,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -1815,7 +1815,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -1900,7 +1900,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -1985,7 +1985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -2065,7 +2065,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -2100,7 +2100,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -2135,7 +2135,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EX",
         "line_side": "R"
       },
@@ -2170,7 +2170,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L",
         "line_side": "L1"
       },
@@ -2205,7 +2205,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -2240,7 +2240,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -2275,7 +2275,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC Off Ram",
         "line_side": "CC Off Ram"
       },
@@ -2360,7 +2360,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "EL"
       },
@@ -2760,7 +2760,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "GR",
         "line_side": "GR1"
       },
@@ -3050,7 +3050,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "GR",
         "line_side": "GR2"
       },
@@ -3375,7 +3375,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -3545,7 +3545,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -3740,7 +3740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -3775,7 +3775,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -3810,7 +3810,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -3845,7 +3845,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -3880,7 +3880,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -3915,7 +3915,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -3950,7 +3950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -3990,7 +3990,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4030,7 +4030,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4065,7 +4065,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4135,7 +4135,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4170,7 +4170,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4240,7 +4240,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4275,7 +4275,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4310,7 +4310,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4345,7 +4345,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4430,7 +4430,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4465,7 +4465,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4540,7 +4540,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4575,7 +4575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4610,7 +4610,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4645,7 +4645,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4680,7 +4680,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4715,7 +4715,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4750,7 +4750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -4865,7 +4865,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -4975,7 +4975,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -5280,7 +5280,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -5315,7 +5315,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES1"
       },
@@ -5500,7 +5500,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES2"
       },
@@ -5550,7 +5550,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES4"
       },
@@ -5650,7 +5650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES4"
       },
@@ -5750,7 +5750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES6"
       },
@@ -5890,7 +5890,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES7"
       },
@@ -5925,7 +5925,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES7"
       },
@@ -5985,7 +5985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES8"
       },
@@ -6020,7 +6020,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES8"
       },
@@ -6055,7 +6055,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ES9"
       },
@@ -6130,7 +6130,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES1",
         "line_side": "ES10"
       },
@@ -6175,7 +6175,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES1",
         "line_side": "ES11"
       },
@@ -6245,7 +6245,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES1",
         "line_side": "ES12"
       },
@@ -6280,7 +6280,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES2",
         "line_side": "ES29"
       },
@@ -6380,7 +6380,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES3",
         "line_side": "ES30"
       },
@@ -6495,7 +6495,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES3",
         "line_side": "ES32"
       },
@@ -6535,7 +6535,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -7540,7 +7540,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -7610,7 +7610,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -7970,7 +7970,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -8060,7 +8060,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -9650,7 +9650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -9735,7 +9735,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -9815,7 +9815,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -9885,7 +9885,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -9960,7 +9960,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES County",
         "line_side": "de-sac"
       },
@@ -10215,7 +10215,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_L"
       },
@@ -10250,7 +10250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_L",
         "line_side": "ES_L1"
       },
@@ -10330,7 +10330,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_L",
         "line_side": "ES_L3"
       },
@@ -10490,7 +10490,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_L",
         "line_side": "ES_L5"
       },
@@ -10525,7 +10525,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_R"
       },
@@ -10610,7 +10610,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_R",
         "line_side": "ES_R1"
       },
@@ -10755,7 +10755,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -10810,7 +10810,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L_NB CYCLE"
       },
@@ -10930,7 +10930,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L_PVT ACCE"
       },
@@ -10965,7 +10965,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L_PVT ACCE"
       },
@@ -11000,7 +11000,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R2"
       },
@@ -11105,7 +11105,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R4"
       },
@@ -11150,7 +11150,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R5"
       },
@@ -11240,7 +11240,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -12615,7 +12615,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -13705,7 +13705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Tie",
         "line_side": "L"
       },
@@ -13800,7 +13800,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Tie",
         "line_side": "ML"
       },
@@ -13835,7 +13835,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -14140,7 +14140,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14210,7 +14210,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14325,7 +14325,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14415,7 +14415,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R-R"
       },
@@ -14460,7 +14460,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -14495,7 +14495,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14530,7 +14530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -14615,7 +14615,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14705,7 +14705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -14750,7 +14750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -14825,7 +14825,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -14905,7 +14905,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -15100,7 +15100,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -15195,7 +15195,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -15320,7 +15320,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -15455,7 +15455,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -15555,7 +15555,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -15685,7 +15685,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -15945,7 +15945,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -16015,7 +16015,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -16140,7 +16140,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -16235,7 +16235,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -16325,7 +16325,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -16390,7 +16390,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -16430,7 +16430,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -16520,7 +16520,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -16575,7 +16575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -16700,7 +16700,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -16790,7 +16790,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -16855,7 +16855,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -16915,7 +16915,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -17050,7 +17050,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -17125,7 +17125,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -17210,7 +17210,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -17275,7 +17275,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -17365,7 +17365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -17455,7 +17455,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -17535,7 +17535,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -17570,7 +17570,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -17720,7 +17720,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -17805,7 +17805,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -17900,7 +17900,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -18020,7 +18020,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -18055,7 +18055,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -18150,7 +18150,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": null
       },
@@ -18265,7 +18265,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -18385,7 +18385,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -18510,7 +18510,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -18575,7 +18575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -18695,7 +18695,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -18740,7 +18740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": null
       },
@@ -18885,7 +18885,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -18985,7 +18985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -19350,7 +19350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -19710,7 +19710,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -20460,7 +20460,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R7"
       },
@@ -20580,7 +20580,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R7"
       },
@@ -20620,7 +20620,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "RZ"
       },
@@ -21020,7 +21020,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -21240,7 +21240,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -21455,7 +21455,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -21530,7 +21530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -21685,7 +21685,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -22030,7 +22030,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -22105,7 +22105,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -22185,7 +22185,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "Access"
       },
@@ -22315,7 +22315,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -22465,7 +22465,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -22585,7 +22585,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -22690,7 +22690,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -22735,7 +22735,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -23095,7 +23095,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_L"
       },
@@ -23130,7 +23130,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_R"
       },
@@ -23165,7 +23165,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_L"
       },
@@ -23275,7 +23275,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_R"
       },
@@ -23385,7 +23385,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DJ",
         "line_side": "L"
       },
@@ -23505,7 +23505,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DK",
         "line_side": "L"
       },
@@ -23625,7 +23625,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "Back"
       },
@@ -23760,7 +23760,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "L"
       },
@@ -23880,7 +23880,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -23950,7 +23950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L"
       },
@@ -24020,7 +24020,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "L"
       },
@@ -24100,7 +24100,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -24160,7 +24160,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -24220,7 +24220,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -24350,7 +24350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -24475,7 +24475,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "ES"
       },
@@ -24595,7 +24595,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES5",
         "line_side": "L2"
       },
@@ -24630,7 +24630,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES5",
         "line_side": "L21"
       },
@@ -24730,7 +24730,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -24970,7 +24970,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -25010,7 +25010,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -25315,7 +25315,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -25615,7 +25615,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -25725,7 +25725,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -25860,7 +25860,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -26100,7 +26100,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -26160,7 +26160,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -26220,7 +26220,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -26295,7 +26295,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -26415,7 +26415,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -26450,7 +26450,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -26485,7 +26485,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -26520,7 +26520,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -26555,7 +26555,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -26950,7 +26950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -27315,7 +27315,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -27650,7 +27650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -28025,7 +28025,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES4",
         "line_side": "R"
       },
@@ -28115,7 +28115,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "Bay"
       },
@@ -28230,7 +28230,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -28515,7 +28515,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -28555,7 +28555,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -28880,7 +28880,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -29210,7 +29210,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -29250,7 +29250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -29335,7 +29335,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES4",
         "line_side": "R"
       },
@@ -29455,7 +29455,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -29910,7 +29910,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -30365,7 +30365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -30830,7 +30830,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -31425,7 +31425,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -32020,7 +32020,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -32585,7 +32585,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -33155,7 +33155,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -33750,7 +33750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -34230,7 +34230,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -34705,7 +34705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -35120,7 +35120,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -35785,7 +35785,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -35845,7 +35845,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -35915,7 +35915,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -37250,7 +37250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -37320,7 +37320,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -38480,7 +38480,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -38540,7 +38540,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML1"
       },
@@ -38600,7 +38600,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -38660,7 +38660,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -38730,7 +38730,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -39815,7 +39815,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR1"
       },
@@ -39875,7 +39875,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -41190,7 +41190,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -41250,7 +41250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -41350,7 +41350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -41625,7 +41625,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "ML"
       },
@@ -41900,7 +41900,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "MR"
       },
@@ -42180,7 +42180,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -42450,7 +42450,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -42560,7 +42560,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -42660,7 +42660,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_L"
       },
@@ -42735,7 +42735,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES_",
         "line_side": "ES_R"
       },
@@ -42810,7 +42810,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -42845,7 +42845,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -42985,7 +42985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -43110,7 +43110,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -43145,7 +43145,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -43185,7 +43185,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "R"
       },
@@ -43370,7 +43370,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "R"
       },
@@ -43635,7 +43635,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "R1"
       },
@@ -43855,7 +43855,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DJ",
         "line_side": "R"
       },
@@ -44005,7 +44005,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DJ",
         "line_side": "R1"
       },
@@ -44215,7 +44215,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DK",
         "line_side": "R"
       },
@@ -44365,7 +44365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DK",
         "line_side": "R1"
       },
@@ -44575,7 +44575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "L11"
       },
@@ -44610,7 +44610,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "R"
       },
@@ -44710,7 +44710,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -44830,7 +44830,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -44950,7 +44950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L"
       },
@@ -45065,7 +45065,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "R"
       },
@@ -45255,7 +45255,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "L"
       },
@@ -45405,7 +45405,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "R"
       },
@@ -45630,7 +45630,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -45740,7 +45740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -45855,7 +45855,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -45890,7 +45890,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "L"
       },
@@ -45995,7 +45995,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DJ",
         "line_side": "L"
       },
@@ -46380,7 +46380,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DK",
         "line_side": "L"
       },
@@ -46765,7 +46765,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH1",
         "line_side": "L"
       },
@@ -47150,7 +47150,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "bund front"
       },
@@ -47535,7 +47535,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "R"
       },
@@ -47580,7 +47580,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -47710,7 +47710,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -47790,7 +47790,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L"
       },
@@ -47915,7 +47915,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "R"
       },
@@ -47960,7 +47960,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "L"
       },
@@ -48085,7 +48085,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "R"
       },
@@ -48130,7 +48130,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -48200,7 +48200,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -48270,7 +48270,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R7"
       },
@@ -48835,7 +48835,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -48960,7 +48960,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -49015,7 +49015,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -49085,7 +49085,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -49270,7 +49270,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -49310,7 +49310,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -49435,7 +49435,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -49475,7 +49475,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EX",
         "line_side": "L"
       },
@@ -49520,7 +49520,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EX",
         "line_side": "L"
       },
@@ -49630,7 +49630,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": null
       },
@@ -49705,7 +49705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": null
       },
@@ -49740,7 +49740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -49780,7 +49780,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -49965,7 +49965,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -50005,7 +50005,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -50080,7 +50080,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LN",
         "line_side": "L"
       },
@@ -50280,7 +50280,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LN",
         "line_side": "L"
       },
@@ -50315,7 +50315,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -50475,7 +50475,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -50690,7 +50690,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -50830,7 +50830,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -50980,7 +50980,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -51260,7 +51260,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -51355,7 +51355,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -51635,7 +51635,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -51750,7 +51750,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -51800,7 +51800,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -52350,7 +52350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -52435,7 +52435,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -52470,7 +52470,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -52645,7 +52645,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Lin",
         "line_side": "Line"
       },
@@ -52705,7 +52705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "NB On Ramp",
         "line_side": "NB On Ramp"
       },
@@ -52825,7 +52825,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "NB On Ramp",
         "line_side": "NB On Ramp"
       },
@@ -52905,7 +52905,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "NB On Ramp",
         "line_side": "NB On Ramp"
       },
@@ -53000,7 +53000,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "NB On Ramp",
         "line_side": "NB On Ramp"
       },
@@ -53080,7 +53080,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "L"
       },
@@ -53115,7 +53115,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "R"
       },
@@ -53270,7 +53270,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "R1"
       },
@@ -53345,7 +53345,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -53525,7 +53525,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -53700,7 +53700,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -53775,7 +53775,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L"
       },
@@ -53955,7 +53955,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L1"
       },
@@ -54080,7 +54080,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "R"
       },
@@ -54260,7 +54260,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "L"
       },
@@ -54470,7 +54470,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "R"
       },
@@ -54650,7 +54650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -54760,7 +54760,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -54870,7 +54870,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Tie",
         "line_side": "to-RailCor"
       },
@@ -54935,7 +54935,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC Off Ram",
         "line_side": "CC Off Ram"
       },
@@ -54970,7 +54970,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "Off Ramp.E"
       },
@@ -55005,7 +55005,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "Off Ramp.G"
       },
@@ -55045,7 +55045,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "Off Ramp.G"
       },
@@ -55080,7 +55080,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp C1"
       },
@@ -55175,7 +55175,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp C1"
       },
@@ -55335,7 +55335,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.Cu"
       },
@@ -55665,7 +55665,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.Cu"
       },
@@ -56565,7 +56565,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.DJ"
       },
@@ -57135,7 +57135,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.DK"
       },
@@ -57705,7 +57705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EH"
       },
@@ -57890,7 +57890,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EH"
       },
@@ -58050,7 +58050,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EH"
       },
@@ -58085,7 +58085,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EH"
       },
@@ -58655,7 +58655,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EH"
       },
@@ -59170,7 +59170,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EL"
       },
@@ -59670,7 +59670,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EL"
       },
@@ -59985,7 +59985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.ES"
       },
@@ -60485,7 +60485,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.ES"
       },
@@ -61000,7 +61000,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.EV"
       },
@@ -61525,7 +61525,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.Fi"
       },
@@ -61570,7 +61570,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "CC",
         "line_side": "On Ramp.IF"
       },
@@ -62125,7 +62125,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -62430,7 +62430,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -62815,7 +62815,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -63230,7 +63230,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -63360,7 +63360,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -63400,7 +63400,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -63950,7 +63950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -64010,7 +64010,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -64070,7 +64070,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -64135,7 +64135,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -64235,7 +64235,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -64545,7 +64545,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -64955,7 +64955,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -65185,7 +65185,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -65255,7 +65255,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -65390,7 +65390,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -65425,7 +65425,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "crown hing",
         "line_side": "crown hing"
       },
@@ -65460,7 +65460,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -65495,7 +65495,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -65530,7 +65530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EW",
         "line_side": "L"
       },
@@ -65565,7 +65565,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EX",
         "line_side": "L"
       },
@@ -65600,7 +65600,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": "L"
       },
@@ -65635,7 +65635,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": "R"
       },
@@ -65670,7 +65670,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -65705,7 +65705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "ML"
       },
@@ -65740,7 +65740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "MR"
       },
@@ -65775,7 +65775,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -65810,7 +65810,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -65970,7 +65970,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -66150,7 +66150,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -66260,7 +66260,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -66370,7 +66370,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -66755,7 +66755,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -67155,7 +67155,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -67275,7 +67275,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -67380,7 +67380,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -67495,7 +67495,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -67610,7 +67610,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -67705,7 +67705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -68250,7 +68250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -68485,7 +68485,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R7"
       },
@@ -68825,7 +68825,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L plus4.8"
       },
@@ -68860,7 +68860,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -69045,7 +69045,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP"
       },
@@ -69140,7 +69140,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "PSP1"
       },
@@ -69215,7 +69215,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R plus4.8"
       },
@@ -69250,7 +69250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -69320,7 +69320,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -69400,7 +69400,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -69460,7 +69460,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -69520,7 +69520,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EX",
         "line_side": "L"
       },
@@ -69580,7 +69580,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "FB",
         "line_side": "R"
       },
@@ -69640,7 +69640,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": null
       },
@@ -69700,7 +69700,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -69760,7 +69760,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -69820,7 +69820,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -70200,7 +70200,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -70330,7 +70330,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -70385,7 +70385,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -70445,7 +70445,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -70480,7 +70480,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -70535,7 +70535,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -70570,7 +70570,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -70625,7 +70625,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -70850,7 +70850,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -70905,7 +70905,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -70960,7 +70960,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -71065,7 +71065,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -71260,7 +71260,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -71295,7 +71295,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R1"
       },
@@ -71335,7 +71335,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -71575,7 +71575,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -71805,7 +71805,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -71840,7 +71840,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -71875,7 +71875,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -71910,7 +71910,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -71945,7 +71945,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -72050,7 +72050,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "L"
       },
@@ -72365,7 +72365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "Batter",
         "line_side": "R"
       },
@@ -72490,7 +72490,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "DK",
         "line_side": "L1"
       },
@@ -72650,7 +72650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EH",
         "line_side": "R"
       },
@@ -72950,7 +72950,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -73230,7 +73230,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -73490,7 +73490,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "E",
         "line_side": "EV"
       },
@@ -73650,7 +73650,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "L"
       },
@@ -73990,7 +73990,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "EV",
         "line_side": "R"
       },
@@ -74250,7 +74250,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "IF",
         "line_side": "R"
       },
@@ -74555,7 +74555,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -74815,7 +74815,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -75075,7 +75075,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -75685,7 +75685,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -76055,7 +76055,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -76170,7 +76170,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -76205,7 +76205,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -76240,7 +76240,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77530,7 +77530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77625,7 +77625,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77705,7 +77705,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77740,7 +77740,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77825,7 +77825,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -77915,7 +77915,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -78005,7 +78005,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -78115,7 +78115,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -78215,7 +78215,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -78350,7 +78350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -78490,7 +78490,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -80375,7 +80375,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -81675,7 +81675,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -81765,7 +81765,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -81895,7 +81895,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -81980,7 +81980,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -82760,7 +82760,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -82855,7 +82855,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -82940,7 +82940,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -83035,7 +83035,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -83155,7 +83155,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -83260,7 +83260,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -83350,7 +83350,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -83765,7 +83765,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -84010,7 +84010,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -84195,7 +84195,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -84300,7 +84300,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -84390,7 +84390,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -84530,7 +84530,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L1"
       },
@@ -84595,7 +84595,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -84985,7 +84985,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -85500,7 +85500,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -85685,7 +85685,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -86845,7 +86845,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES Complex",
         "line_side": "ES Complex"
       },
@@ -86960,7 +86960,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -87000,7 +87000,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -87045,7 +87045,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "crown hing",
         "line_side": "crown hing"
       },
@@ -87085,7 +87085,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -87125,7 +87125,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
@@ -87165,7 +87165,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "L1",
         "line_side": "L"
       },
@@ -87205,7 +87205,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "L"
       },
@@ -87245,7 +87245,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "ML"
       },
@@ -87285,7 +87285,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "MR"
       },
@@ -87325,7 +87325,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "LE",
         "line_side": "R"
       },
@@ -87365,7 +87365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "L"
       },
@@ -87780,7 +87780,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null,
+        "category": "alignment",
         "line_type": "ES",
         "line_side": "R"
       },
